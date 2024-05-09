@@ -102,6 +102,7 @@
     ".changes/fix-cli-migration-http-acl.md",
     ".changes/fix-codegen-rerun-if-changed.md",
     ".changes/fix-config-arg.md",
+    ".changes/fix-draw-tracing.md",
     ".changes/fix-fs-scope-check-symlink.md",
     ".changes/fix-incompatible-ipc-field-postmessage.md",
     ".changes/fix-inner-size.md",

@@ -1,5 +1,11 @@
 # Changelog
 
+## \[2.0.0-beta.17]
+
+### Bug Fixes
+
+- [`c0bcc6c0b`](https://www.github.com/tauri-apps/tauri/commit/c0bcc6c0b74ef7167de85002a5c29b6f731bae41)([#9717](https://www.github.com/tauri-apps/tauri/pull/9717)) Fixes redraw tracing span not closing.
+
 ## \[2.0.0-beta.16]
 
 ### New Features

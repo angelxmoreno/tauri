@@ -1,5 +1,11 @@
 # Changelog
 
+## \[2.0.0-beta.20]
+
+### Dependencies
+
+- Upgraded to `tauri-runtime-wry@2.0.0-beta.17`
+
 ## \[2.0.0-beta.19]
 
 ### New Features
